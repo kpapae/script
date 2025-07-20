@@ -1,3 +1,2 @@
-Το συγκεκρίμενο script γράφτηκε προκειμένου να ελέγχει αν σε μία ιστοσελίδα έχουν προστεθεί στοιχεία με keywords που έχουν οριστεί και να στέλνει email σε συγκεκριμένη διεύθυνση με τα αποτελέσματα του ελέγχου.
-
-Με τη χρήση cron η διαδικασία γίνεται αυτόματα 2 φορές το 24ωρο.
+# Web-scraping Script
+A Node.js script designed to monitor websites for specific keywords and send email notifications when matches are found. The script runs automatically twice daily using cron jobs to provide regular monitoring updates.
